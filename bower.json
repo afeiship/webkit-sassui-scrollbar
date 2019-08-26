@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-scrollbar",
+  "description": "Customize scrollbar.",
+  "main": [
+    "dist/webkit-sassui-scrollbar.css",
+    "dist/webkit-sassui-scrollbar.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "scrollbar"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-sassui-scrollbar",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
